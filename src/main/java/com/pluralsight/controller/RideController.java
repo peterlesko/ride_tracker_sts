@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.pluralsight.model.Ride;
 import com.pluralsight.service.RideService;
-
 @Controller
 public class RideController {
 

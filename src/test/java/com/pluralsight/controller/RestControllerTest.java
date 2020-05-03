@@ -1,7 +1,6 @@
 package com.pluralsight.controller;
 
 import java.util.List;
-
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
